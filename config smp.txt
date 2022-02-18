@@ -1,0 +1,5 @@
+{
+	"ip":"Manitthe.aternos.me",
+	"port": "24003",
+	"name": "24/7"
+}
